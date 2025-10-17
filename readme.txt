@@ -1,1 +1,1 @@
-Hello Patricia - QA
+This repo is mainly for learning git commands
